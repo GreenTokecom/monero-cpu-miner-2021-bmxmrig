@@ -14,4 +14,5 @@ Hash rate check with : h
 Pause with : p
 Resume with : r
 
+Visit www.green-toke.com and register, community forum for developers & gamers.
 
