@@ -1,7 +1,7 @@
 # MONERO CPU MINER / 2021 / VPS/DEDICATED - LINUX/UBUNTU 16.04
 
 VPS INSTALLATION : 
-git clone (link for download from here)
+git clone https://github.com/GreenTokecom/monero-cpu-miner-2021-bmxmrig.git
 cd bmxmrig
 chmod u+x ./xmrig
 
